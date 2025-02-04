@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tensorflow-models/blazeface": "^0.1.0"
+  }
+}
